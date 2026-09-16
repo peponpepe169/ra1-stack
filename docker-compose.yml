@@ -1,0 +1,7 @@
+version: "28.9.0"
+
+services:
+
+  web:
+
+    image: nginx
